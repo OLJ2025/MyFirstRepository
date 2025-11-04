@@ -1,0 +1,30 @@
+/* style.css */
+.sofadi-one-regular {
+  font-family: "Sofadi One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+table{
+	background-color: #ffcccc;
+	width:60%;
+}
+td, th{
+	border:1px solid black;
+	text-align: center;
+	padding: 5px;
+}
+table, td, th{
+	border: 2px solid black;
+	border-color: solid black;
+	border-collapse: collapse;
+}
+body{
+	background-color: powderblue;
+}
+tr:hover {background-color: #D6EEEE;}
+header {
+  background-color: #333333;
+  text-align: center;
+  padding: 10px;
+}
+
